@@ -54,7 +54,7 @@ The result is parsed and displayed as a Sudoku grid.
 
 Clone the repository:
 
-git clone https://github.com/your-username/sudoku-smt-solver.git
+git clone https://github.com/asud13/sudokusolver.git
 cd sudoku-smt-solver
 
 
